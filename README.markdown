@@ -6,7 +6,7 @@ unite flexmatcher is prefix flex matcher
 usage
 ---
 ### .vimrc
-    call unite#custom_filters('file,buffer,buffer_tab', ['matcher_default', 'sorter_default', 'flexmatcher'])
+    call unite#custom_filters('file,buffer,buffer_tab', ['flexmatcher', 'sorter_default', 'converter_default'])
 
 
 ex.
