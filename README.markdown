@@ -18,9 +18,9 @@ ex.
 
     >nodl
     -NeoBundle
-     ~ ~   ~~
+     ^ ^   ^^
 
-flexmatcher matches 'n.*o.*d.*l.*' regexp
+flexmatcher matches 'n.\*o.\*d.\*l.\*' regexp
 
 
 MIT License
